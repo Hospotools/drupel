@@ -1,0 +1,2 @@
+# drupel
+Drupal Jollyness theme
